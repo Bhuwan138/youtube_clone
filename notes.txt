@@ -1,0 +1,8 @@
+For material UI
+https://mui.com/material-ui/getting-started/installation/
+
+For React Router dom  
+npm install react-router-dom --save
+
+For Axios
+npm install axios
